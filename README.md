@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Yash Tyagi 
 
-Welcome to my GitHub profile! I'm passionate about software development and frontend development. Here you can find some of my recent projects, learn more about my work, and explore the tools and technologies I use.
-
+Welcome to my GitHub profile! I'm enthusiastic about software engineering and front-end development. Here you can explore some of my latest projects, learn more about my work, and discover the tools and technologies I utilize.
 
 ## About Me
 
-I am an aspiring software developer with a strong focus on creating efficient and innovative solutions. My interests include machine learning, web development, and I love astronomy by heart. I enjoy tackling challenging problems and continuously improving my skill set.
+I am an aspiring software engineer with a keen focus on crafting effective and innovative solutions. My interests encompass machine learning, problem-solving, and front-end web development. I relish tackling challenging problems and am committed to continuously enhancing my skill set.
+
 
 - 🌱 Currently learning: DSA and Full Stack Development
 - 💬 Ask me about: Python, DSA Problems(still learning), Frontend development.
